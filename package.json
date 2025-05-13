@@ -1,0 +1,14 @@
+{
+  "name": "pay-with-time",
+  "version": "1.0.0",
+  "description": "sistem pembayaran waktu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rid-arch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
